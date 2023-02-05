@@ -11,11 +11,11 @@
 
 
 <p>
-Deloitte interview Question 
-armstrong number program and explain it 
-What is Pyhton and it's features
-what are modules and packages in Python
-list vs tuple
-Question Related to project
-sql Query
+Deloitte interview Question   <br>
+armstrong number program and explain it  <br>
+What is Pyhton and it's features <br>
+what are modules and packages in Python <br>
+list vs tuple <br>
+Question Related to project <br>
+sql Query <br>
 </p>
