@@ -6,6 +6,24 @@
 
 <h1> Computer Network </h2>
 
+<h1> 7 Layers of OSI Model <h1>
+
+ <ol> 
+  
+
+  <li> Physical Layer  </li>
+ <li> Data-Link Layer </li>
+<li>Network Layer </li>
+<li> Transport Layer </li>
+<li> Session Layer </li>
+<li> Presentation Layer </li>
+<li> Application Layer </li>
+
+</ol>
+
+
+
+
 
 <h> API</h>
 
