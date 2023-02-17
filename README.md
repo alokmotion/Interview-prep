@@ -27,7 +27,7 @@
 
 
 
-<h> API</h>
+<h1> API </h>
 <p>
 APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols. For example, the weather bureau’s software system contains daily weather data. The weather app on your phone “talks” to this system via APIs and shows you daily weather updates on your phone.
 </p>
